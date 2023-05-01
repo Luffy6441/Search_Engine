@@ -1,0 +1,24 @@
+button {
+    background-color : blue;
+    color : white;
+    border : 1px solid blue;
+    border-radius : 4px;
+    padding : 8px 16px;
+    cursor : pointer;
+}
+
+input [type = text] {
+    width : 30%;
+    border : 2px solid black;
+    border-redius : 4px;
+    padding : 8px , 16px;
+    display : inline-block;
+}
+
+body {
+    text-align : center;
+}
+
+.resultTable {
+    display : inline-block;
+}
