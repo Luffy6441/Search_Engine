@@ -5,7 +5,7 @@
 <link rel = "Stylesheet" type = "text/css" href = "Styles.css">
 </head>
 <body>
-    <h1> Simple Search Engine </h1>
+    <h1> Doodle </h1>
     <table border = 2 class = "resulltTable">
         <tr>
             <th> Keyword </th>
